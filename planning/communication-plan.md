@@ -1,6 +1,6 @@
 # Communication
 
-## Communication Schedule week1
+## Communication Schedule - week1
 
 | Day       | The topic of discussion                                   |
 
