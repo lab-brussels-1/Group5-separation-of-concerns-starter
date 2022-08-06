@@ -11,10 +11,10 @@
 
 ## Availability Week1
 
-| Day  Wednesday | Thursday | Friday | Saturday | Sunday |
+| Day | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---| :-------: | :------: | :----: | :------: | :----: |
-|_Rick_|6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm|
-|_Madhu_|6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm|
+|_Rick_|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|
+|_Madhu_|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|
 |_Kiishi_|00-00|00-00|00-00|00-00|00-00|00-00|00-00|
 
 ### How many hours everyone has per day
