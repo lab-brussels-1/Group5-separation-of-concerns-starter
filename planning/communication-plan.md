@@ -3,7 +3,7 @@
 ## Communication Schedule - week1
 
 | Day       | The topic of discussion                                   |
-
+| --------- | -----------------------                                   |
 | Wednesday | Repository setup,discuss website design                   |
 | Thursday  | Finalizing the planning                                   |
 | Friday    | Drafting UI design                                        |
@@ -12,7 +12,7 @@
 ## Availability Week1
 
 | Day  Wednesday | Thursday | Friday | Saturday | Sunday |
-| --- :-------: | :------: | :----: | :------: | :----: |
+| ---| :-------: | :------: | :----: | :------: | :----: |
 |_Rick_|6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm|
 |_Madhu_|6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm||6pm-7pm|
 |_Kiishi_|00-00|00-00|00-00|00-00|00-00|00-00|00-00|
