@@ -10,7 +10,8 @@
 -->
 # Flower Shop Website
 
-We decided to create a flower shop website where the users can view the menu from a dropdown list and add and remove items to their shopping cart.
+We decided to create a flower shop website where the users can view the menu
+from a dropdown list and add and remove items to their shopping cart.
 
 ---
 
@@ -45,7 +46,8 @@ a list of items with its price.
 
 > As a user, I can increase or decrease the number of a particular item in my cart.
 
-- [ ] There is an EDIT button to increase or decrease the amount of a particular item.
+- [ ] There is an EDIT button to increase or decrease the amount of a particular
+  item.
 
 ## User Story 5
 
