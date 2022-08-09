@@ -41,14 +41,11 @@ a list of items with its price.
 
 - [ ] There is a a button to remove items from the list.
 
-
 ## User Story 4
 
 > As a user, I can increase or decrease the number of a particular item in my cart.
 
 - [ ] There is an EDIT button to increase or decrease the amount of a particular item.
-
-
 
 ## User Story 5
 
@@ -57,6 +54,7 @@ a list of items with its price.
 - [ ] There is a checkbox to indicate I am done with my cart.
 
 ---
+
 ## Footer
 
 - [ ] Includes social media links and info about how to contact us.
