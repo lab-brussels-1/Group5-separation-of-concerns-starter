@@ -15,13 +15,13 @@
 | ---| :-------: | :------: | :----: | :------: | :----: |
 |_Rick_|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|
 |_Madhu_|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|
-|_Kiishi_|00-00|00-00|00-00|00-00|00-00|00-00|00-00|
+|_Kiishi_|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|6pm-7pm|
 
 ### How many hours everyone has per day
 
 - Madhu: _2h_;
 - Rick _2h_;
-- Kiishi _00_;
+- Kiishi _2h_;
 
 ## Communication tools
 
