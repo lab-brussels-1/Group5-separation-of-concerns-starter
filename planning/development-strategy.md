@@ -10,8 +10,8 @@
 -->
 # Flower Shop Website
 
-We decided to create a flower shop website where the users can view the menu
-from a dropdown list and add and remove items to their shopping cart.
+We decided to create a flower shop website where the users can view flowers on
+the website and add or remove items to their shopping cart.
 
 ---
 
@@ -23,33 +23,42 @@ from a dropdown list and add and remove items to their shopping cart.
 
 ---
 
-## User Story 1
+## Header
 
-> As a user, I can see all the items in the menu.
+- [ ] Includes the group name and website name
+- [ ] Includes the navigation bar with links for home,
+shopping cart and login.
 
-- [ ] There is a dropdown menu that displays
-a list of items with its price.
+---
 
-## User Story 2
+## User Stories
+
+### User Story 1
+
+> As a user, I can see all the flowers available on the website.
+
+- [ ] All items for sale are displayed on the home page.
+
+### User Story 2
 
 > As a user, I can add a new item to the list.
 
 - [ ] There is a button to add a new item to the list.
 
-## User Story 3
+### User Story 3
 
 > As a user, I can remove items from the list.
 
 - [ ] There is a a button to remove items from the list.
 
-## User Story 4
+### User Story 4
 
 > As a user, I can increase or decrease the number of a particular item in my cart.
 
 - [ ] There is an EDIT button to increase or decrease the amount of a particular
   item.
 
-## User Story 5
+### User Story 5
 
 > As a user, I can indicate when I am done editing my cart.
 
