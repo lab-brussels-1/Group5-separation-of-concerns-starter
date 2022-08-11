@@ -1,9 +1,9 @@
-body{
-    background-color: #f4f4f4 !important;
+html {
+    scroll-behavior: smooth;
 }
 
-.container {
-    
+body{
+    background-color: #f4f4f4 !important;
 }
 
 .img {
