@@ -8,7 +8,7 @@ let shopItemsData = [{
     id: 1,
     name: "Netherlands flowers",
     price: 25.00,
-    imgSrc: "/assets/flower2.jpeg",   
+    imgSrc: "assets/flower2.jpeg",   
 },
 {
     id: 2,
