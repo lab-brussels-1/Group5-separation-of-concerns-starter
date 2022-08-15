@@ -82,7 +82,7 @@ let decrement = (id) => {
 
 let update = (id) => {
     let search = basket.find((x) => x.id === id);
-    //document.getElementById(id).innerHTML = search.item;
+    document.getElementById(id).innerHTML = search.item;
     calculation();
 };
 
