@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group 5 project</title>
+	<link href="index.css" rel="stylesheet" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+</head>
+<body>
+    <!-- NAVBAR -->
+		<nav class="navbar navbar-expand-lg navbar-light bg-primary text-white p-3">
+			<div class="container-fluid">
+				<a class="navbar-brand text-white ps-2 fw-bold" href="index.html">GROUP 5</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+					aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+						<li class="nav-item">
+							<a class="nav-link active text-white ps-5 fw-bold" aria-current="page" href="#">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link active text-white ps-5 fw-bold" aria-current="page" href="#">Log in</a>
+						</li>
+                        <!-- CART ICON LINK -->
+                            <li class="nav-item">
+                                <a class="nav-link active text-white ps-5 fw-bold mb-2" aria-current="page" href="cart.html">
+                                    <i class="bi bi-cart2 h2 position-absolute"></i>
+                                    <div id="cartAmount" class="cartAmount text-bg-danger position-relative end-100">0</div></a>
+                            </li>
+						</ul>
+					<form class="d-flex">
+						<input class="form-control me-2 " type="search" placeholder="Search" aria-label="Search">
+						<button class="btn btn-outline-light text-white" type="submit">Search</button>
+					</form>
+				</div>
+			</div>
+		</nav>
+
+<!-- MAIN CONTAINER FOR SHOPPING CART -->
+<container class="row g-5 justify-content-start ms-5">
+
+        <!-- MAIN HEADER WITH PRICE -->
+<div id="label" class="text-center text-danger"></div>
+
+        <!-- ITEMS LIST -->
+<div class="shopping-cart text-danger" id="shopping-cart"></div>
+
+</container>
+<!-- FOOTER -->
+<footer id="footer"  class="p-5 mt-5 bg-primary text-center text-white ">
+    <div class="class container">
+        <a href="#"  class="p-3" target="_blank" aria-hidden="true">
+            <i class="bi bi-instagram text-white h3"></i>	
+        </a>	
+        <a href="#"  class="p-3" target="_blank" aria-hidden="true">
+            <i class="bi bi-facebook text-white h3"></i>	
+        </a>
+        <a href="https://github.com/lab-brussels-1/Group5-separation-of-concerns-starter"  class="m-3" target="_blank" aria-hidden="true">
+            <i class="bi bi-github text-white h3"></i>	
+        </a>	
+    </div>
+</footer> 
+</body>
+<script src="src/data.js"></script>
+<script src="cart.js"></script>
+</html>
