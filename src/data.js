@@ -2,7 +2,7 @@ let shopItemsData = [{
     id: 0,
     name: "Belgium Flowers",
     price: 20,
-    imgSrc: "/assets/flower1.jpeg",
+    imgSrc: "assets/flower1.jpeg",
 },
 {
     id: 1,
@@ -14,5 +14,6 @@ let shopItemsData = [{
     id: 2,
     name: "Italy flowers",
     price: 30.00,
-    imgSrc: "/assets/flower4.jpeg",   
+    imgSrc: "./assets/flower4.jpeg",   
 },]
+
